@@ -30,7 +30,7 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 
 [Files]
 Source: "SongAnnouncer\*"; DestDir: "{code:GetDefaultDir}\SongAnnouncer\"; Flags: ignoreversion recursesubdirs createallsubdirs        
-Source: "SongAnnouncer.dll"; DestDir: "{code:GetDefaultDir}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "SongAnnouncer.dll"; DestDir: "{code:GetDefaultDir}"; Flags: ignoreversion
 
 
 
