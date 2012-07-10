@@ -1,13 +1,14 @@
 SongAnnouncer
 =============
 
-SongAnnouncer is a Toastify plugin to announce songs using the festival text to speech library.
+SongAnnouncer is a Toastify plugin to announce songs played in Spotify using the festival text to speech library.
 
 System Requirements
 =============
 
 - Only works on Windows
 - Toastify (tested on 1.5), download: http://toastify.codeplex.com/
+- Spotify client, download: http://www.spotify.com
 
 Installing SongAnnouncer
 =============
