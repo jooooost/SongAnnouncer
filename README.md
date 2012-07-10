@@ -28,6 +28,5 @@ How to compile
     <PluginDetails>
         <FileName>SongAnnouncer.dll</FileName>
         <TypeName>SongAnnouncer.SongAnnouncer</TypeName>
-        <Settings>D:\Joost\ToastifyLog.txt</Settings>
     </PluginDetails>
 ```
