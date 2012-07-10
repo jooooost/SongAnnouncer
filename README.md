@@ -11,4 +11,14 @@ System Requirements
 
 Installing SongAnnouncer
 =============
+Easy to use installer can be found here:
+http://joostvandoorn.com/songannouncer/SongAnnouncerSetup.exe
 
+How to compile
+=============
+- Download festival: http://www.cstr.ed.ac.uk/projects/festival/
+- Compile festival on Windows using cygwin. Use the readme & faq for festival.
+- Extract the lib/ directory and place this in the "Toastify/SongAnnouncer" directory
+- Move the festival.exe file to in the "Toastify/SongAnnouncer" directory
+- Compile SongAnnouncer.dll as a plugin for Toastify using Visual Studio (2010)
+- Place SongAnnouncer.dll in the "Toastify" directory
