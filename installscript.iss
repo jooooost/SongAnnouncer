@@ -50,7 +50,7 @@ const
   DRIVE_REMOTE = 4; // The drive is a remote (network) drive.
   DRIVE_CDROM = 5; // The drive is a CD-ROM drive.
   DRIVE_RAMDISK = 6; // The drive is a RAM disk.
-  SETTING = '<PluginDetails><FileName>SongAnnouncer.dll</FileName><TypeName>SongAnnouncer.SongAnnouncer</TypeName><Settings>D:\Joost\ToastifyLog.txt</Settings></PluginDetails>';
+  SETTING = '<PluginDetails><FileName>SongAnnouncer.dll</FileName><TypeName>SongAnnouncer.SongAnnouncer</TypeName></PluginDetails>';
 
 function GetDriveLocation(): string;
 var
